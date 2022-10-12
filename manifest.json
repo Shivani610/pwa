@@ -6,7 +6,7 @@
     "display": "standalone",
     "icons": [
         {
-            "src": "./assects/images/SKILLHUB-48-48.png",
+            "src": "./pwa/assects/images/SKILLHUB-48-48.png",
             "sizes": "48x48"
         },
         {
